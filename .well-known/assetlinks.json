@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.example.maxis_ekelas",
+               "sha256_cert_fingerprints": ["98:1D:71:4C:1F:93:F1:97:BB:DD:B8:B8:99:85:64:82:1B:6E:4E:B4:E8:37:2A:92:8E:98:1C:F9:46:BB:21:3E"] }
+}]
